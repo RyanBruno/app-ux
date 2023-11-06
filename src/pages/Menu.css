@@ -1,0 +1,45 @@
+
+#search {
+    font-size: 18px;
+}
+
+div#overflow-menu {
+    white-space: nowrap;
+    overflow-x: scroll;
+}
+
+div#overflow-menu ion-button h6#active {
+    border-bottom: solid 2px rgb(126, 126, 126);
+}
+
+div#overflow-menu ion-button h6 {
+    font-size: 14px;
+    text-transform: none !important;
+    margin: 0 5px;
+    margin: 0;
+}
+
+ion-button.search {
+    padding-inline-start: 10px;
+
+}
+
+ion-list-header ion-label {
+    font-size: 18px;
+    font-weight: bold;
+
+}
+
+ion-item {
+    --background: #f8f8fc;
+    margin-top: 1px;
+}
+
+ion-thumbnail {
+    --border-radius: 50%;
+}
+
+ion-item ion-label {
+    font-size: 18px;
+    font-weight: 600;
+}

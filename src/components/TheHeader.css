@@ -1,0 +1,30 @@
+
+ion-title {
+    margin-top: 8px;
+    --color: #000;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+ion-note {
+    padding-inline-start: 3px;
+}
+
+div#location {
+    padding-inline-start: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    display: flex;
+}
+
+div#location ion-icon {
+    font-size: 14px;
+}
+
+div#location ion-note {
+    font-size: 14px;
+}
+
+#icons ion-icon {
+    font-size: 24px;
+}
